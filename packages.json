@@ -1,0 +1,4 @@
+[
+  { "package": "beezdemand",      "url": "https://github.com/brentkaplan/beezdemand",      "branch": "develop" },
+  { "package": "beezdiscounting", "url": "https://github.com/brentkaplan/beezdiscounting", "branch": "develop" }
+]
